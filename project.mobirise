@@ -696,7 +696,7 @@
     "findoutmore.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "findoutmore",
+        "title": "Find Out More",
         "order": 8
       },
       "components": [
@@ -856,7 +856,7 @@
     "shareyourexperience.html": {
       "settings": {
         "meta_descr": "Share your experience.",
-        "title": "shareyourexperience",
+        "title": "Share your experience",
         "order": 6
       },
       "components": [
@@ -1421,7 +1421,7 @@
     "aboutus.html": {
       "settings": {
         "meta_descr": "About us.",
-        "title": "aboutus",
+        "title": "About Us",
         "order": 7
       },
       "components": [
@@ -1996,7 +1996,7 @@
     "transportation.html": {
       "settings": {
         "meta_descr": "Transportation.",
-        "title": "transportation",
+        "title": "Transportation",
         "order": 5
       },
       "components": [
@@ -2518,7 +2518,7 @@
     "budapest.html": {
       "settings": {
         "meta_descr": "Budapest.",
-        "title": "budapest",
+        "title": "Budapest, Hungary",
         "order": 4
       },
       "components": [
@@ -3177,7 +3177,7 @@
     "mljet.html": {
       "settings": {
         "meta_descr": "Mljet.",
-        "title": "mljet",
+        "title": "Mljet, Croatia",
         "order": 3
       },
       "components": [
@@ -3836,7 +3836,7 @@
     "bosnia.html": {
       "settings": {
         "meta_descr": "bosnia,a ja ovaaa hrvatska.",
-        "title": "bosnia",
+        "title": "Bosnia",
         "order": 2
       },
       "components": [
@@ -4499,7 +4499,7 @@
     "irlandia.html": {
       "settings": {
         "meta_descr": "irish",
-        "title": "irlandia",
+        "title": "Ireland",
         "order": 1
       },
       "components": [
